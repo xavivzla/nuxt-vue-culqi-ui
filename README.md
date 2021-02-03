@@ -44,6 +44,3 @@ Load only selected components. Will load all framework if empty
 
 ## Changelog
 [Release Notes](./CHANGELOG.md)
-
-## License
-MIT, made by [**#Galley Web Production**](https://galley.online/)
