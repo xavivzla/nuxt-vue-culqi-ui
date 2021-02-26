@@ -1,6 +1,4 @@
 # NUXT VUE-CULQI-UI
-<!-- [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-vue-material/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-vue-material)
-[![npm](https://img.shields.io/npm/dt/nuxt-vue-material.svg?style=flat-square)](https://npmjs.com/package/nuxt-vue-material) -->
 
 > Plugin to join nuxt and [vue-material](https://github.com/xavivzla/culqi-ui) framework.
 
@@ -15,13 +13,6 @@
       components: ['MdDrawer', 'MdRadio', 'MdMenu', 'MdContent', 'MdList', 'MdButton', 'MdToolbar',]
     }],
   ]
-  /* OR like this:
-  modules: [
-    'nuxt-vue-culqi-ui'
-  ],
-  vueCulqiUi: {
-    theme: 'default-dark'
-  }*/
 }
 ```
 
